@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# EXAMPLE SCRIPT
+
 # the temperature you want the extruder to be
 # before turning off the machine (and fans)
 SHUTDOWN_TEMP=40
